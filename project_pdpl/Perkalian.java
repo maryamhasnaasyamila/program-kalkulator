@@ -4,6 +4,6 @@ public class Perkalian extends Operation {
 
     @Override
     public double hitung(double angka1, double angka2) {
-        return angka1 * angka2;
+        return angka1 * angka1;
     }
 }
